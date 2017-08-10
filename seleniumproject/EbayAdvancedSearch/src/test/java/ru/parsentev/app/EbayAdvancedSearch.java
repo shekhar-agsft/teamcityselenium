@@ -30,7 +30,7 @@ public class EbayAdvancedSearch {
 		
 		driver.navigate().to("http://www.google.com/");
         System.out.println(driver.getTitle());
-        assertTrue( driver.getTitle().compareTo("Google")==0 );
+        assertTrue( driver.getTitle().compareTo("srsffg")==0 );
 
 	}
 
